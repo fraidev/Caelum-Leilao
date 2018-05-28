@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Git\Caelum.Leilao" t="IncludeFlat">
+      <e p="Caelum.Leilao" t="IncludeRecursive">
+        <e p="avaliador.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Caelum.Leilao.csproj" t="IncludeRecursive" />
+        <e p="CriadorDeLeilao.cs" t="Include" />
+        <e p="Lance.cs" t="Include" />
+        <e p="Leilao.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Palindromo.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Usuario.cs" t="Include" />
+      </e>
+      <e p="Caelum.Leilao.sln" t="IncludeFlat" />
+      <e p="Caelum.Leilao.Tests" t="IncludeRecursive">
+        <e p="AvaliadorTest.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Caelum.Leilao.Tests.csproj" t="IncludeRecursive" />
+        <e p="LeilaoTest.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="PalindromoTest.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Frai\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Caelum.Leilao.1805806405.00" t="ExcludeRecursive" />
+  </component>
+</project>

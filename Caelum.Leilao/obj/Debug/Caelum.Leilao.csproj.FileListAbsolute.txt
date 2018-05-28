@@ -1,0 +1,27 @@
+c:\users\mauricioaniche\documents\visual studio 2012\Projects\Caelum.Leilao\Caelum.Leilao\obj\Debug\Caelum.Leilao.csprojResolveAssemblyReference.cache
+c:\users\mauricioaniche\documents\visual studio 2012\Projects\Caelum.Leilao\Caelum.Leilao\bin\Debug\Caelum.Leilao.dll
+c:\users\mauricioaniche\documents\visual studio 2012\Projects\Caelum.Leilao\Caelum.Leilao\bin\Debug\Caelum.Leilao.pdb
+c:\users\mauricioaniche\documents\visual studio 2012\Projects\Caelum.Leilao\Caelum.Leilao\obj\Debug\Caelum.Leilao.dll
+c:\users\mauricioaniche\documents\visual studio 2012\Projects\Caelum.Leilao\Caelum.Leilao\obj\Debug\Caelum.Leilao.pdb
+c:\users\mauricioaniche\documents\visual studio 2012\Projects\Caelum.Leilao\Caelum.Leilao\bin\Debug\nunit.framework.dll
+C:\Users\felipe.cardozo\Desktop\Caelum.Leilao\Caelum.Leilao\bin\Debug\Caelum.Leilao.pdb
+C:\Users\felipe.cardozo\Desktop\Caelum.Leilao\Caelum.Leilao\bin\Debug\nunit.framework.dll
+C:\Users\felipe.cardozo\Desktop\Caelum.Leilao\Caelum.Leilao\obj\Debug\Caelum.Leilao.csprojResolveAssemblyReference.cache
+C:\Users\felipe.cardozo\Desktop\Caelum.Leilao\Caelum.Leilao\obj\Debug\Caelum.Leilao.csproj.CoreCompileInputs.cache
+C:\Users\felipe.cardozo\Desktop\Caelum.Leilao\Caelum.Leilao\obj\Debug\Caelum.Leilao.csproj.CopyComplete
+C:\Users\felipe.cardozo\Desktop\Caelum.Leilao\Caelum.Leilao\obj\Debug\Caelum.Leilao.pdb
+C:\Users\felipe.cardozo\Desktop\Caelum.Leilao\Caelum.Leilao\bin\Debug\Caelum.Leilao.dll
+C:\Users\felipe.cardozo\Desktop\Caelum.Leilao\Caelum.Leilao\obj\Debug\Caelum.Leilao.dll
+C:\Git\Caelum.Leilao\Caelum.Leilao\bin\Debug\Caelum.Leilao.dll
+C:\Git\Caelum.Leilao\Caelum.Leilao\bin\Debug\Caelum.Leilao.pdb
+C:\Git\Caelum.Leilao\Caelum.Leilao\bin\Debug\mscorlib.dll
+C:\Git\Caelum.Leilao\Caelum.Leilao\bin\Debug\nunit.framework.dll
+C:\Git\Caelum.Leilao\Caelum.Leilao\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Git\Caelum.Leilao\Caelum.Leilao\bin\Debug\normidna.nlp
+C:\Git\Caelum.Leilao\Caelum.Leilao\bin\Debug\normnfc.nlp
+C:\Git\Caelum.Leilao\Caelum.Leilao\bin\Debug\normnfd.nlp
+C:\Git\Caelum.Leilao\Caelum.Leilao\bin\Debug\normnfkc.nlp
+C:\Git\Caelum.Leilao\Caelum.Leilao\bin\Debug\normnfkd.nlp
+C:\Git\Caelum.Leilao\Caelum.Leilao\obj\Debug\Caelum.Leilao.csprojResolveAssemblyReference.cache
+C:\Git\Caelum.Leilao\Caelum.Leilao\obj\Debug\Caelum.Leilao.dll
+C:\Git\Caelum.Leilao\Caelum.Leilao\obj\Debug\Caelum.Leilao.pdb
